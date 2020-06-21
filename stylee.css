@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-size: 100%;
+  background-image: url("https://besthqwallpapers.com/Uploads/19-3-2020/125412/thumb2-4k-coffee-beans-texture-close-up-arabica-brown-backgrounds.jpg");
+}
+
+td,
+th {
+  border: rgb(253, 253, 253) solid 1px;
+}
+table {
+  padding: 10px;
+}
+
+.imgs {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.678);
+  width: 20%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: auto;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 40%;
+  border-radius: 7px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.paragraphs {
+  background-color: rgba(255, 255, 255, 0.863);
+  font-weight: bold;
+  padding: 3px;
+  width: 90%;
+  margin: auto;
+  border-radius: 9px;
+  padding: 10px;
+  margin-top: 8px;
+}
+.head {
+  margin: auto;
+  background-color: #a1674ace;
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  border-radius: 20px;
+  font-family: cursive;
+  margin-top: 10px;
+}
+a {
+  text-decoration: none;
+}
+.footer {
+  font-weight: bold;
+}
